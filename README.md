@@ -11,3 +11,6 @@
 
 ## Online Film Sistemi ödevi
 ![](https://github.com/aliulu0/PatikaOOP/blob/main/OnlineMovieSys.png)
+
+## Asansör Simülasyonu ödevi
+![](https://github.com/aliulu0/PatikaOOP/blob/main/ElevatorSimulation.jpg)
